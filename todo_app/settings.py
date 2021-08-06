@@ -26,7 +26,7 @@ SECRET_KEY = '_^0ya(y!=k4)k2u&l$dpy-u775ns&eo_dr9s0=g#b3ood^(hbl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['vico-todo.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['vico-todo.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
